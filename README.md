@@ -13,5 +13,17 @@ Features for Homepage:
 -Notes:
 should the garden be visible at all times? For the Priority, Planned, Other Spending, you can pick on area to focus on for the user’s story if you like This is going to be a pretty important feature since this is where all the user’s money is going to be seen. Do a competitive Analysis on Quicken or other competitors on its design choices look at its features, does it make sense? How can we incorporate these features to our app w/o copying Are there areas we missed and need to add?
 ![1](https://github.com/user-attachments/assets/fb2c1eb8-fae6-42bd-bf3e-8a1948bfa2e1)
+
+Features:
+- Overview of Garden UI
+- Store
+- catalog of plants (probably 3 for now)
+- cost for in app currency
+- ui drop down for basic plants vs exclusive plants_
+- selected plant UI
+- button tap for UI
+- placed plant down on island/garden
+
+
 ![3](https://github.com/user-attachments/assets/ce9494b8-a4f3-41c8-a95c-5c44ddc97479)
 
