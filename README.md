@@ -3,8 +3,7 @@ An app made to help and fix issues regrading ones finances
 The Name of the App is "Sprout"
 
 
-https://github.com/user-attachments/assets/22dafdae-d8b9-4a96-894b-a5691a2d0e76
+![2](https://github.com/user-attachments/assets/519b7d93-56e5-42c8-a3de-a339eac75c96)
+![1](https://github.com/user-attachments/assets/fb2c1eb8-fae6-42bd-bf3e-8a1948bfa2e1)
+![3](https://github.com/user-attachments/assets/ce9494b8-a4f3-41c8-a95c-5c44ddc97479)
 
-https://github.com/user-attachments/assets/8ad34d8f-a4d6-4449-954a-93d8d18f63ae
-
-https://github.com/user-attachments/assets/9ddac33e-0335-4c3a-a83a-358e622baadd
